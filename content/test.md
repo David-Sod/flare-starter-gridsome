@@ -16,3 +16,18 @@ Hello from test
 </columns>
 
 
+
+
+<columns number="1" number-m="1" number-s="1">
+
+<block>
+
+### Layouts
+
+Layouts decorate the pages.
+
+Learn more
+
+</block>
+
+</columns>
